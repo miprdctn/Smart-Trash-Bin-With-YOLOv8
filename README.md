@@ -1,4 +1,4 @@
-# Smart-Trash-Bin-With-YOLO
+# Smart-Trash-Bin-With-YOLOv8
 The automatic waste sorter is a prototype project created to automatically classify types of waste.
 
 # Waste Detection dengan YOLO (Python)
